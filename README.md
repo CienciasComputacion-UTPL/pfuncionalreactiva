@@ -55,7 +55,9 @@ Dentro de gitpod se podria usar [glow](https://github.com/charmbracelet/glow) pa
 ### Taller: Uso combinado de POO y programación funcional.
 ### Semana: 1
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b1s1.md
+
 **Estatus:** Ok
 
 
@@ -63,7 +65,9 @@ Para ver los detalles debe abrir el archivo b1s1.md
 ### Taller: Expresar funciones matemáticas como código.
 ### Semana: 2
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b1s2.md
+
 **Estatus:** Ok
 
 
@@ -71,7 +75,9 @@ Para ver los detalles debe abrir el archivo b1s2.md
 ### Taller: Identificación de funciones puras
 ### Semana: 3
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b1s3.md
+
 **Estatus:** Ok (Renombrar)
 
 
@@ -79,7 +85,9 @@ Para ver los detalles debe abrir el archivo b1s3.md
 ### Taller: Conceptos básicos de PF desarrollando el ejemplo de la clasificación de números de Nicodemo.
 ### Semana: 4
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b1s4.md
+
 **Estatus:** Ok
 
 
@@ -87,7 +95,9 @@ Para ver los detalles debe abrir el archivo b1s4.md
 ### Taller: Inducción al Cálculo lambda desde la práctica
 ### Semana: 5
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b1s5.md
+
 **Estatus:** Ok
 
 
@@ -95,7 +105,9 @@ Para ver los detalles debe abrir el archivo b1s5.md
 ### Taller: Usando Option, Either
 ### Semana: 6
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b1s6.md
+
 **Estatus:** Revisar (Revisar la posibilidad de usar [vavr](https://www.vavr.io/))
 
 
@@ -103,7 +115,9 @@ Para ver los detalles debe abrir el archivo b1s6.md
 ### Taller: Manejo de efectos colaterales aplicando Try Either y Option.
 ### Semana: 7
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b1s7.md
+
 **Estatus:** Revisar (Revisar la posibilidad de usar [vavr](https://www.vavr.io/))
 
 
@@ -111,7 +125,9 @@ Para ver los detalles debe abrir el archivo b1s7.md
 ### Taller: Revisión de Recursividad
 ### Semana: 8
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b1s8.md
+
 **Estatus:** Ok
 
 # Segundo bimestre
@@ -120,41 +136,52 @@ Para ver los detalles debe abrir el archivo b1s8.md
 ### Taller: Herramientas para manejo de dependencias SBT.
 ### Semana: 1
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b2s1.md
+
 **Estatus:** Cambiar
 
 ## Taller 2
 ### Taller: Implementación de una aplicación reactiva.
 ### Semana: 2
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b2s2.md
+
 **Estatus:** Revisar (Trabajo con flujos infinitos de datos o similares)
 
 ## Taller 3
 ### Taller: Lectura de archivos CSV y representación de datos.
 ### Semana: 3
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b2s3.md
+
 **Estatus:** Ok
 
 ## Taller 4
 ### Taller: Análisis exploratorio de datos sobre un dataset.
 ### Semana: 4
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b2s4.md
+
 **Estatus:** Ok (Cambiar nombre por: Estadística descriptiva)
 
 ## Taller 5
 ### Taller: Uso ADT para escribir archivos.
 ### Semana: 5
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b2s5.md
+
 **Estatus:** Ok
 
 ## Taller 6
 ### Taller: Ejecución de sentencias DML en un lenguaje funcional.
 ### Semana: 6
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b2s6.md
 
 **Estatus:** Ok
@@ -163,6 +190,7 @@ Para ver los detalles debe abrir el archivo b2s6.md
 ### Taller: Manejo de bases de datos relacionales usando programación funcional.
 ### Semana: 7
 ###  Detalles: 
+
 Para ver los detalles debe abrir el archivo b2s7.md
 
 **Estatus:** Ok
@@ -171,6 +199,7 @@ Para ver los detalles debe abrir el archivo b2s7.md
 ### Taller: Bases de datos NoSQL desde una perspectiva funcional.
 ### Semana: 8
 ###  Detalles: 
-Para ver los de
-talles debe abrir el archivo b2s8.md
+
+Para ver los detalles debe abrir el archivo b2s8.md
+
 **Estatus:** Ok

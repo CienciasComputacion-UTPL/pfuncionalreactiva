@@ -10,7 +10,7 @@ En este entorno usted encontrará las siguientes herramientas:
 - Java 19 (jshell)
 - Sala 3 (scala)
 - Python 3 (python)
-- Maven 3.2 (mnv)
+- Maven 3.2 (mvn)
 - SBT (sbt)
 - pip (pip)
 - sdk (sdk)

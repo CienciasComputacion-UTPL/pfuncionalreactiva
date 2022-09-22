@@ -56,9 +56,10 @@ Dentro de gitpod se podria usar [glow](https://github.com/charmbracelet/glow) pa
 ### Semana: 1
 ###  Detalles: 
 
-Para ver los detalles debe abrir el archivo b1s1.md
-
-**Estatus:** Ok
+Para ver los detalles debe abrir el archivo b1s1.md. Para abrir ese documento en gitpod debe ejecutar el comando
+```shell
+glow b1s1.md
+```
 
 
 ## Taller 2

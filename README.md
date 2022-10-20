@@ -21,7 +21,7 @@ En los paréntesis que se encuentran al final de cada item encontrará el comand
 
 ### Indicaciones generales:
 
-Antes de empezr a trabajar es necesario que cree un nuevo repositorio en github, le sugiero que el repositorio esté vacío y no contengan ningún archivo.
+Antes de empezar a trabajar, se sugiero que ingrese a su cuenta de GitHub.
 
 Para arrancar el entorno debe hacer clic en el siguiente botón:
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/CienciasComputacion-UTPL/pfuncionalreactiva)
@@ -57,19 +57,25 @@ Dentro de gitpod se podria usar [glow](https://github.com/charmbracelet/glow) pa
 ###  Detalles: 
 
 Para ver los detalles debe abrir el archivo b1s1.md. Para abrir ese documento en gitpod debe ejecutar el comando
+
 ```shell
-glow b1s1.md
+glow
 ```
 
+Y luego use las teclas cursor para ubicarse en el archivo b1s1.md y presione *Enter*, de esta forma abrirá el archivo antes mencionado.
 
-## Taller 2
-### Taller: Expresar funciones matemáticas como código.
+## Taller Grupal 1
+### Taller: Funciones, funciones sin nombre y rangos
 ### Semana: 2
 ###  Detalles: 
 
-Para ver los detalles debe abrir el archivo b1s2.md
+Para ver los detalles debe abrir el archivo b1s2.md. Para abrir ese documento en gitpod debe ejecutar el comando
 
-**Estatus:** Ok
+```shell
+glow
+```
+
+Y luego use las teclas cursor para ubicarse en el archivo b1s2.md y presione *Enter*, de esta forma abrirá el archivo antes mencionado.
 
 
 ## Taller 3

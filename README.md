@@ -78,14 +78,18 @@ glow
 Y luego use las teclas cursor para ubicarse en el archivo b1s2.md y presione *Enter*, de esta forma abrirá el archivo antes mencionado.
 
 
-## Taller 3
-### Taller: Identificación de funciones puras
+## Taller Individual 2
+### Taller: Higher Order Funtions
 ### Semana: 3
 ###  Detalles: 
 
-Para ver los detalles debe abrir el archivo b1s3.md
+Para ver los detalles debe abrir el archivo b1s3.md. Para abrir ese documento en gitpod debe ejecutar el comando
 
-**Estatus:** Ok (Renombrar)
+```shell
+glow
+```
+
+Y luego use las teclas cursor para ubicarse en el archivo b1s3.md y presione *Enter*, de esta forma abrirá el archivo antes mencionado.
 
 
 ## Taller 4

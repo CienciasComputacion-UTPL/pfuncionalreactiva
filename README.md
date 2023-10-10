@@ -7,7 +7,7 @@ Hola bienvenido a este entorno de programación el cual ha sido configurado con 
 
 En este entorno usted encontrará las siguientes herramientas:
 
-- Java 19 (jshell)
+- Java 11 (jshell)
 - Sala 3 (scala)
 - Python 3 (python)
 - Maven 3.2 (mvn)
